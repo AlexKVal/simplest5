@@ -1,5 +1,5 @@
 ```
-> rails new simplest5 -C -O -S -J -M -P --skip-listen
+> rails new simplest5 -C -O -S -J -M -P --skip-listen --api
 ```
 
 - --skip-action-cable -C
